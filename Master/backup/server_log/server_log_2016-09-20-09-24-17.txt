@@ -1,0 +1,157 @@
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 188821
+[00:00:00]: Current time: Tue Sep 20 08:26:16 2016
+
+[00:00:00]: Don't Starve Together: 188821 WIN32
+[00:00:00]: Build Date: 1147
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (3008)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.27
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together Dedicated Server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'ConsoleInput' (2792)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:00]: DownloadMods(0)
+[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:01]: LOADING LUA SUCCESS
+[00:00:01]: PlayerDeaths could not load morgue	
+[00:00:01]: PlayerHistory could not load player_history	
+[00:00:01]: bloom_enabled	false	
+[00:00:01]: loaded saveindex	
+[00:00:01]: OnFilesLoaded()	
+[00:00:01]: OnUpdatePurchaseStateComplete	
+[00:00:02]: 	Load FE	
+[00:00:02]: 	Load FE: done	
+[00:00:02]: ModIndex: Load sequence finished successfully.	
+[00:00:02]: Reset() returning
+[00:00:05]: [200] Account Failed (6): "E_EXPIRED_TOKEN"
+[00:00:05]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:00:05]: !!!! Your Server Will Not Start !!!!
+[00:00:05]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:00:05]: No auth token could be found.
+[00:00:05]: To generate a cluster_token you must
+[00:00:05]: open the console from a logged-in game
+[00:00:05]: client with the tilda key (~ / ù) and type:
+[00:00:05]: TheNet:GenerateClusterToken()
+[00:00:05]: This will create 'cluster_token.txt' in
+[00:00:05]: your client settings directory. Copy this
+[00:00:05]: into your cluster settings directory.
+[00:00:05]: [Connect] PendingConnection::Reset(true)
+[00:00:47]: ConsoleInput: "reset(true)"
+[00:00:47]: [string "reset(true)"]:1: variable 'reset' is not declared
+[00:00:56]: ConsoleInput: "c_reset(true)"
+[00:00:56]: Collecting garbage...
+[00:00:56]: lua_gc took 0.02 seconds
+[00:00:56]: ~ShardLuaProxy()
+[00:00:56]: ~ItemServerLuaProxy()
+[00:00:56]: ~InventoryLuaProxy()
+[00:00:56]: ~NetworkLuaProxy()
+[00:00:56]: ~SimLuaProxy()
+[00:00:56]: lua_close took 0.02 seconds
+[00:00:56]: ReleaseAll
+[00:00:56]: ReleaseAll Finished
+[00:00:56]: cGame::StartPlaying
+[00:00:56]: LOADING LUA
+[00:00:56]: DoLuaFile scripts/main.lua
+[00:00:56]: DoLuaFile loading buffer scripts/main.lua
+[00:00:56]: running main.lua
+	
+[00:00:56]: loaded modindex	
+[00:00:56]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:56]: LOADING LUA SUCCESS
+[00:00:56]: PlayerDeaths could not load morgue	
+[00:00:56]: PlayerHistory could not load player_history	
+[00:00:56]: bloom_enabled	false	
+[00:00:56]: loaded saveindex	
+[00:00:56]: OnFilesLoaded()	
+[00:00:56]: OnUpdatePurchaseStateComplete	
+[00:00:56]: 	FE assets already loaded	
+[00:00:57]: ModIndex: Load sequence finished successfully.	
+[00:00:57]: Reset() returning
+[00:01:04]: ConsoleInput: "c_shutdown"
+[00:01:04]: attempt to call a nil value
+[00:01:11]: ConsoleInput: "c_shutdown()"
+[00:01:11]: c_shutdown	nil	
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: WARNING! Invalid resource handle for atlas 'FROMNUM', did you remember to load the asset?
+[00:01:11]: Looking for default texture '' from atlas 'FROMNUM'.
+[00:01:11]: Error Looking for default texture in from atlas 'FROMNUM'.
+[00:01:11]: Collecting garbage...
+[00:01:11]: lua_gc took 0.02 seconds
+[00:01:11]: ~ShardLuaProxy()
+[00:01:11]: ~ItemServerLuaProxy()
+[00:01:11]: ~InventoryLuaProxy()
+[00:01:11]: ~NetworkLuaProxy()
+[00:01:11]: ~SimLuaProxy()
+[00:01:11]: lua_close took 0.02 seconds
+[00:01:11]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:01:11]: shaders/ui_yuv.ksh - 1
+[00:01:11]: CurlRequestManager::ClientThread::Main() complete
+[00:01:11]: HttpClient2 discarded 0 callbacks.
+[00:01:11]: Shutting down

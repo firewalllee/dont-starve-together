@@ -1,0 +1,64 @@
+[00:01:01]: [Join Announcement] fire
+[00:03:01]: [Join Announcement] ReBorn
+[00:06:02]: [Say] (KU_6KT_xiGq) ReBorn: co co khong
+[00:06:04]: [Whisper] (KU_6KT_xiGq) ReBorn: e nus
+[00:06:10]: [Say] (KU_6KT_xiGq) ReBorn: que nua
+[00:09:28]: [Say] (KU_6KT_xiGm) fire: chay huong 3h do
+[00:10:17]: [Say] (KU_6KT_xiGm) fire: co chua
+[00:10:25]: [Say] (KU_6KT_xiGq) ReBorn: dang dap
+[00:10:32]: [Say] (KU_6KT_xiGm) fire: ah dap da je lam may ban tuyen nua
+[00:10:55]: [Say] (KU_6KT_xiGm) fire: ti roi ve nha
+[00:10:59]: [Say] (KU_6KT_xiGm) fire: ti toi ve nha
+[00:11:02]: [Say] (KU_6KT_xiGm) fire: chu co cho
+[00:14:55]: [Say] (KU_6KT_xiGm) fire: chat di m
+[00:15:23]: [Say] (KU_6KT_xiGq) ReBorn: cho
+[00:15:24]: [Say] (KU_6KT_xiGm) fire: lay cai ben nek
+[00:15:40]: [Say] (KU_6KT_xiGm) fire: doi mu giap vao
+[00:15:41]: [Say] (KU_6KT_xiGq) ReBorn: lay cuc timber
+[00:15:51]: [Say] (KU_6KT_xiGq) ReBorn: tat den di
+[00:15:53]: [Say] (KU_6KT_xiGm) fire: ra bo
+[00:15:58]: [Say] (KU_6KT_xiGm) fire: dui
+[00:16:00]: [Say] (KU_6KT_xiGm) fire: did
+[00:22:24]: [Say] (KU_6KT_xiGq) ReBorn: co tuyet trong tu lanh ak
+[00:22:51]: [Say] (KU_6KT_xiGm) fire: co nheiu do thoi ah
+[00:23:08]: [Say] (KU_6KT_xiGq) ReBorn: tuyet hek
+[00:23:12]: [Say] (KU_6KT_xiGm) fire: dung roi
+[00:23:16]: [Say] (KU_6KT_xiGm) fire: co nhiu do thoi ah
+[00:23:20]: [Say] (KU_6KT_xiGq) ReBorn: ok zo t dap da kkhong ak
+[00:23:30]: [Say] (KU_6KT_xiGq) ReBorn: ti nua ra dap nua
+[00:23:37]: [Say] (KU_6KT_xiGq) ReBorn: vs lai no cung it lam
+[00:23:39]: [Say] (KU_6KT_xiGm) fire: da dau
+[00:24:53]: [Say] (KU_6KT_xiGm) fire: sang t di danh gear ln
+[00:24:57]: [Say] (KU_6KT_xiGm) fire: di voi t khong
+[00:25:30]: [Say] (KU_6KT_xiGm) fire: thoi de t
+[00:25:58]: [Say] (KU_6KT_xiGq) ReBorn: cho nao co da nua m
+[00:26:09]: [Say] (KU_6KT_xiGm) fire: tren nayu
+[00:27:21]: [Say] (KU_6KT_xiGm) fire: huong 9h cua m co bagn nua do
+[00:27:25]: [Say] (KU_6KT_xiGm) fire: ben do cugn co da nua
+[00:33:16]: [Skin Announcement] ReBorn body_buttons_pink_hibiscus
+[00:34:29]: [Say] (KU_6KT_xiGm) fire: m di dau the
+[00:34:33]: [Say] (KU_6KT_xiGm) fire: sao khong dap da nua
+[00:35:09]: [Say] (KU_6KT_xiGm) fire: di dau the
+[00:35:28]: [Say] (KU_6KT_xiGq) ReBorn: t di thu thoi
+[00:35:32]: [Say] (KU_6KT_xiGq) ReBorn: ben kia het da ui
+[00:39:38]: [Say] (KU_6KT_xiGm) fire: ah cuot cave di m
+[00:39:43]: [Say] (KU_6KT_xiGm) fire: cho gan nha minh nke
+[00:39:48]: [Whisper] (KU_6KT_xiGm) fire: xuong hang dong xem thu
+[00:40:15]: [Say] (KU_6KT_xiGq) ReBorn: de sang t xuong thu
+[00:40:24]: [Say] (KU_6KT_xiGm) fire: ok
+[00:40:51]: [Say] (KU_6KT_xiGm) fire: t nghi mai chac no hu het may file luu ln cho ma xem
+[00:41:00]: [Say] (KU_6KT_xiGm) fire: ma chan ghe
+[00:41:09]: [Say] (KU_6KT_xiGq) ReBorn: chiu thoio
+[00:46:20]: [Say] (KU_6KT_xiGm) fire: lay it bong sang nha m
+[00:51:07]: [Say] (KU_6KT_xiGm) fire: thoi ngu m
+[00:51:12]: [Say] (KU_6KT_xiGm) fire: con l kia sap ra roi do
+[00:51:20]: [Say] (KU_6KT_xiGq) ReBorn: ok
+[00:51:34]: [Say] (KU_6KT_xiGm) fire: t tat do
+[00:51:41]: [Say] (KU_6KT_xiGq) ReBorn: cho t lensss
+[00:52:11]: [Say] (KU_6KT_xiGm) fire: m dau m len
+[00:53:11]: [Say] (KU_6KT_xiGm) fire: thoi tat do
+[00:53:15]: [Say] (KU_6KT_xiGq) ReBorn: ok
+[00:53:23]: [Say] (KU_6KT_xiGm) fire: m thoat truo cdi
+[00:53:29]: [Say] (KU_6KT_xiGm) fire: cho chac
+[00:53:35]: [Leave Announcement] ReBorn
+[00:53:45]: [Leave Announcement] fire

@@ -1,0 +1,4 @@
+[00:01:05]: [Join Announcement] fire
+[00:24:30]: [Join Announcement] mua roi lang tham
+[00:24:50]: [Leave Announcement] mua roi lang tham
+[01:10:44]: [Leave Announcement] fire

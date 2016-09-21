@@ -1,0 +1,5 @@
+[00:00:47]: [Join Announcement] fire
+[00:01:47]: [Join Announcement] ReBorn
+[00:21:35]: [Death Announcement] ReBorn was killed by Clockwork Bishop. He became a spooky ghost!
+[00:26:45]: [Resurrect Announcement] ReBorn was resurrected by fire.
+[00:27:27]: [Leave Announcement] fire

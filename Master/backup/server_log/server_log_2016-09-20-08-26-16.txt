@@ -1,0 +1,82 @@
+[00:00:01]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:01]: Starting Up
+[00:00:01]: Version: 188821
+[00:00:01]: Current time: Tue Sep 20 08:12:52 2016
+
+[00:00:01]: Don't Starve Together: 188821 WIN32
+[00:00:01]: Build Date: 1147
+[00:00:01]: Parsing command line
+[00:00:01]: Command Line Arguments: 
+[00:00:01]: Initializing Minidump handler
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (5920)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: ProfileIndex:4.26
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together Dedicated Server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:01]: THREAD - started 'ConsoleInput' (5924)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: FMOD Error: An invalid object handle was used. 
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:03]: DoLuaFile loading buffer scripts/main.lua
+[00:00:08]: running main.lua
+	
+[00:00:08]: loaded modindex	
+[00:00:08]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:08]: DownloadMods(0)
+[00:00:11]: FMOD Error: An invalid object handle was used. 
+[00:00:13]: LOADING LUA SUCCESS
+[00:00:13]: PlayerDeaths could not load morgue	
+[00:00:13]: PlayerHistory could not load player_history	
+[00:00:13]: bloom_enabled	false	
+[00:00:13]: loaded saveindex	
+[00:00:13]: OnFilesLoaded()	
+[00:00:13]: OnUpdatePurchaseStateComplete	
+[00:00:58]: 	Load FE	
+[00:00:59]: 	Load FE: done	
+[00:00:59]: ModIndex: Load sequence finished successfully.	
+[00:00:59]: Reset() returning
+[00:01:02]: [200] Account Failed (6): "E_EXPIRED_TOKEN"
+[00:01:02]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:01:02]: !!!! Your Server Will Not Start !!!!
+[00:01:02]: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:01:02]: No auth token could be found.
+[00:01:02]: To generate a cluster_token you must
+[00:01:02]: open the console from a logged-in game
+[00:01:02]: client with the tilda key (~ / ù) and type:
+[00:01:02]: TheNet:GenerateClusterToken()
+[00:01:02]: This will create 'cluster_token.txt' in
+[00:01:02]: your client settings directory. Copy this
+[00:01:02]: into your cluster settings directory.
+[00:01:02]: [Connect] PendingConnection::Reset(true)
+[00:01:20]: Collecting garbage...
+[00:01:20]: lua_gc took 0.02 seconds
+[00:01:20]: ~ShardLuaProxy()
+[00:01:20]: ~ItemServerLuaProxy()
+[00:01:20]: ~InventoryLuaProxy()
+[00:01:20]: ~NetworkLuaProxy()
+[00:01:20]: ~SimLuaProxy()
+[00:01:20]: lua_close took 0.03 seconds
+[00:01:20]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:01:20]: shaders/ui_yuv.ksh - 1
+[00:01:20]: CurlRequestManager::ClientThread::Main() complete
+[00:01:20]: HttpClient2 discarded 0 callbacks.
+[00:01:20]: Shutting down
